@@ -1,0 +1,14 @@
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\obj\Debug\netcoreapp2.1\win7-x64\HelloWorldStateless.csproj.CoreCompileInputs.cache
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\obj\Debug\netcoreapp2.1\win7-x64\HelloWorldStateless.AssemblyInfoInputs.cache
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\obj\Debug\netcoreapp2.1\win7-x64\HelloWorldStateless.AssemblyInfo.cs
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\bin\Debug\netcoreapp2.1\win7-x64\HelloWorldStateless.exe
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\bin\Debug\netcoreapp2.1\win7-x64\HelloWorldStateless.deps.json
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\bin\Debug\netcoreapp2.1\win7-x64\HelloWorldStateless.runtimeconfig.json
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\bin\Debug\netcoreapp2.1\win7-x64\HelloWorldStateless.runtimeconfig.dev.json
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\bin\Debug\netcoreapp2.1\win7-x64\HelloWorldStateless.dll
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\bin\Debug\netcoreapp2.1\win7-x64\HelloWorldStateless.pdb
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\obj\Debug\netcoreapp2.1\win7-x64\HelloWorldStateless.csprojAssemblyReference.cache
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\obj\Debug\netcoreapp2.1\win7-x64\HelloWorldStateless.dll
+C:\Users\bsun\source\repos\HelloWorld\HelloWorldStateless\obj\Debug\netcoreapp2.1\win7-x64\HelloWorldStateless.pdb
